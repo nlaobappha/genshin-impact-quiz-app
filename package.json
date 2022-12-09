@@ -1,21 +1,20 @@
 {
-  "name": "quiz-app",
+  "name": "genshin-impact-quiz-app",
   "version": "1.0.0",
   "type":"module",
-  "description": "![Screenshot from 2021-10-03 14-59-41](https://user-images.githubusercontent.com/58719884/135747992-942328a0-3cf4-45eb-906e-d862d2b98c09.png)",
   "main": "scripts.js",
   "scripts": {
     "start": "http-server --port 8080"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnbabu021/quiz-app.git"
+    "url": "git+https://github.com/nlaobappha/genshin-impact-quiz-app"
   },
   "keywords": [],
-  "author": "johnbabu021",
+  "author": "nlaobappha",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johnbabu021/quiz-app/issues"
+    "url": "https://github.com/nlaobappha/genshin-impact-quiz-app"
   },
   "homepage": "https://github.com/johnbabu021/quiz-app#readme",
   "dependencies": {
