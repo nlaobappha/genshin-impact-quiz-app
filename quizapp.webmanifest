@@ -1,7 +1,7 @@
 {
-  "name": "Quizapp Progressive Web App",
-  "short_name": "Quizapp",
-  "description": "Progressive Web App for Quizapp",
+  "name": "Genshin Impact Quiz App",
+  "short_name": "Genshin Impact Quiz",
+  "description": "Genshin Impact Quiz App for CSC227 Final Project",
   "icons": [
     {
       "src": "images/favicon.png",
@@ -16,6 +16,6 @@
   ],
   "start_url": "/quiz-app/index.html",
   "display": "fullscreen",
-  "theme_color": "#0fa781",
+  "theme_color": "#ddabff",
   "background_color": "#000"
 }
