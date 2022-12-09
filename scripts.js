@@ -10,10 +10,12 @@ window.onload=function(){
   if(startButton){
     startButton.addEventListener('click', startGame)
   }
-  nextButton.addEventListener('click', () => {
-    currentQuestionIndex++
-    setNextQuestion()
-  })
+  if(nextButton){
+    nextButton.addEventListener('click', () => {
+      currentQuestionIndex++
+      setNextQuestion()
+    })
+  }
 }
 
 function startGame() {
